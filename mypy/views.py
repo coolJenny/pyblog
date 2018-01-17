@@ -12,3 +12,6 @@ def hello(request):
 
 # def hello(request):
 #  return render(request, "mypy/templates/hello.html", {})
+
+def post_list(request):
+	return render(request, 'blog/post_list.html')
