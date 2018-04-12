@@ -89,10 +89,10 @@ DATABASES = {
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'sqlserver_ado',
-#         'NAME': 'sql_server_demo',
-#         'USER': '',
-#         'PASSWORD': '',
-#         'HOST': 'dbserver\\ss2012'
+#         'NAME': 'ssampleDB',
+#         'USER': 'sa',
+#         'PASSWORD': 'MSSqlserver123!',
+#         'HOST': 'localhost'
 #     }
 # }
 
